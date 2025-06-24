@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/12CJW5fXyelBDPHxi9hJpWma8tTZIq6_E
 """
 
-!pip install streamlit
-
 import streamlit as st
 import pickle
 from sklearn.naive_bayes import MultinomialNB
