@@ -9,8 +9,6 @@ Original file is located at
 
 import streamlit as st
 import pickle
-from sklearn.naive_bayes import MultinomialNB
-from sklearn.feature_extraction.text import CountVectorizer
 
 
 # Load the model and vectorizer
