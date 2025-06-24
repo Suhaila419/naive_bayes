@@ -75,7 +75,6 @@ import pickle
 with open('naive_bayes_model.pkl', 'wb') as file:
     pickle.dump(model, file)
 
-!pip install streamlit
 
 import streamlit as st
 import pickle
